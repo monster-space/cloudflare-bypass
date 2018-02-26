@@ -1,5 +1,5 @@
 <?php
-namespace CloudflareBypass;
+namespace KyranRana\CloudflareBypass;
 
 class CFCore extends CFBypass
 {

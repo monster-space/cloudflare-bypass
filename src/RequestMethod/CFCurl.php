@@ -1,7 +1,7 @@
 <?php
-namespace CloudflareBypass\RequestMethod;
+namespace KyranRana\CloudflareBypass\RequestMethod;
 
-class CFCurl extends \CloudflareBypass\CFCore
+class CFCurl extends \KyranRana\CloudflareBypass\CFCore
 {
     /**
      * Bypasses cloudflare using a curl handle. Given a curl handle this method will behave 

@@ -1,5 +1,5 @@
 <?php
-namespace CloudflareBypass\RequestMethod;
+namespace KyranRana\CloudflareBypass\RequestMethod;
 
 class StreamContext
 {

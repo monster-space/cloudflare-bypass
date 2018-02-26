@@ -1,7 +1,7 @@
 <?php
-namespace CloudflareBypass\RequestMethod;
+namespace KyranRana\CloudflareBypass\RequestMethod;
 
-class CFStreamContext extends \CloudflareBypass\CFCore
+class CFStreamContext extends \KyranRana\CloudflareBypass\CFCore
 {
     /**
      * Given a URL and a context (stream / array), if URL is protected by the Cloudflare,

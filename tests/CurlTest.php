@@ -2,7 +2,7 @@
  
 use PHPUnit\Framework\TestCase; 
  
-use CloudflareBypass\RequestMethod\CFCurl; 
+use KyranRana\CloudflareBypass\RequestMethod\CFCurl; 
  
 class CurlTest extends TestCase 
 { 
