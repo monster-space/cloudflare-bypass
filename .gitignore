@@ -27,6 +27,6 @@ Temporary Items
 .apdisk
 
 # Composer
-/v2/vendor/
-/v2/composer.lock
-/v2/src/CloudflareBypass/Cache/
+/vendor/
+/composer.lock
+/src/Cache/
